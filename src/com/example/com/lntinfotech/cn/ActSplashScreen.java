@@ -15,6 +15,7 @@ public class ActSplashScreen extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main_splash);
 		mContext = this;
+		System.out.println("B4 calling webservcie for splash");
 		new InitTask().execute();
 	}
 
