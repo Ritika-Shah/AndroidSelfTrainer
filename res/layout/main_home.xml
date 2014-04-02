@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
@@ -15,22 +14,4 @@
         android:background="#ffffff" >
     </RelativeLayout>
 
-=======
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:layout_gravity="center"
-    android:background="#000000" >
-
-    <RelativeLayout
-        android:id="@+id/SplashImageView"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:layout_centerVertical="true"
-        android:layout_gravity="center"
-        android:background="#ffddff" >
-    </RelativeLayout>
-
->>>>>>> a922aed38ed338a11714d4acfb87539886b9fb08
 </RelativeLayout>
